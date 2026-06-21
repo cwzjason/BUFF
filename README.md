@@ -1,5 +1,7 @@
 # BUFF - CS:GO Skin Trading Platform
 
+[English](README.md) | [中文](README_CN.md)
+
 A JavaFX desktop application simulating the [BUFF](https://buff.163.com/) marketplace for CS:GO (Counter-Strike: Global Offensive) weapon skins. Browse, buy, and manage your virtual skin collection with a mobile-app-style UI.
 
 ## ✨ Features
